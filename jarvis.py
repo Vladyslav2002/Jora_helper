@@ -1,4 +1,3 @@
-# Голосовой ассистент КЕША 1.0 BETA
 import os
 import time
 import speech_recognition as sr
